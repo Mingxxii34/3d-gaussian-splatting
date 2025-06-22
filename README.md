@@ -58,5 +58,7 @@ python gaussian-splatting/metrics.py -m output/8210f869-3
 - PSNR :   22.6018848
 - LPIPS:    0.3465531
 
-模型下载：https://pan.baidu.com/s/17MdFS4hdaTHqddjLjedeSQ?pwd=kyzx
-重建视频：https://pan.baidu.com/s/1SzltqwvfzOzN14o0Vwt_sw?pwd=ub4p
+项目文件：
+- 模型下载：https://pan.baidu.com/s/17MdFS4hdaTHqddjLjedeSQ?pwd=kyzx
+- 重建视频：https://pan.baidu.com/s/1SzltqwvfzOzN14o0Vwt_sw?pwd=ub4p
+- 数据集：https://pan.baidu.com/s/12NV-bvL8SITMaNjaSHZx5Q?pwd=22vy
